@@ -1,0 +1,8 @@
+num1 = int(input("Ingrese el numero entero: "))
+num2 = float(input("Ingrese el numero real: "))
+print()
+print(F"{num1}+{num2}={num1+num2}")
+print(F"{num1}-{num2}={num1-num2}")
+print(F"{num1}*{num2}={num1*num2}")
+print(F"{num1}**{num2}={num1**num2}")
+print(F"{num1}%{num2}={num1%num2}")
