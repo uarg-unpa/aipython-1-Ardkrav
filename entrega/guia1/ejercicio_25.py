@@ -1,0 +1,1 @@
+print("Nombre\tEdad\tPais\tCiudad\nAlexa\t250\tUSA\tCapeCod")
