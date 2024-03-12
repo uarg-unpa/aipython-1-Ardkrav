@@ -4,7 +4,6 @@ while(cont<=10):
     cont = cont+1
 print("\nFin del bucle while.\n")
 
-
 cadena = "AIPython"
 for letra in cadena:
     print(letra,end = " - ")
