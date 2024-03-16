@@ -4,10 +4,8 @@ while(numero<0):
     numero = int(input('numero ingresado no valido, ingrese nuevamente: '))
     
 for i in range(1,numero+1):
-    suma = suma + i
-    print(i,end='')
+    print(i*2,end="")
+    suma = suma+i*2
     if(i!=numero):
-        print(' + ',end='')
-    else:
-        print(' = ',end='')
-print(suma)
+        print(" + ",end="")
+print(f" = {suma}")
