@@ -3,7 +3,7 @@ nombres=[]
 #nombres=list()
 #lista 
 nombres=['agustin', 'pipi', 'emonuel']
-#nombres=list('agustin', 'pipi', 'emonuel')
+#nombres=list(('agustin', 'pipi', 'emonuel'))
 
 print(nombres)
 #iterar
